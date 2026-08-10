@@ -1,0 +1,15 @@
+.fineprint {
+  font-size: 0.857em;
+  color: #666633;
+  letter-spacing: 1px;
+}
+
+.anchor-link {
+  font-size: 1em;
+  line-height: 1;
+  color: #0d395f;
+  
+  &.after {
+    padding-left: 0.375em !important;
+  }
+}

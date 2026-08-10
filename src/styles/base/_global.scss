@@ -1,0 +1,183 @@
+@use "../core/mixins";
+@use "../core/variables";
+
+* {
+  &,
+  &:before,
+  &:after {
+    box-sizing: border-box;
+  }
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  color: variables.$body-font-color;
+  font-family: variables.$body-font-family;
+  font-size: 16px;
+  line-height: 1.7;
+  background-color: variables.$body-bg-color;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  color: variables.$link-color;
+  text-decoration: underline;
+
+  &:hover {
+    color: variables.$link-color-hover;
+    text-decoration: none;
+  }
+}
+
+.print-section__font-size td a {
+  // font-size: large;
+}
+
+p {
+  font-family: variables.$font-family-sans-serif;
+  margin-top: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+
+ul,
+ol {
+  font-family: variables.$font-family-sans-serif;
+}
+
+ul {
+  list-style: none;
+
+  & > li {
+    position: relative;
+  }
+
+  &>li:before {
+    content: "\2022";
+    font-size: 10px;
+    position: absolute;
+    right: calc(100% + 8px);
+    top: 6px;
+  }
+}
+
+ol {
+  list-style: decimal;
+}
+
+svg {
+  fill: currentColor;
+}
+
+figure {
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 400;
+  color: variables.$black;
+  font-family: "Domine", georgia, serif;
+}
+
+#print-section {
+  margin-top: 3rem;
+  
+  @include mixins.media(lg) {
+    margin-top: 4rem;
+  }
+}
+
+.print-section__font-size h1 {
+  font-size: 2rem;
+  line-height: 1;
+  margin-bottom: 3rem;
+
+  @include mixins.media(md) {
+    font-size: 3rem;
+    margin-bottom: 4rem;
+  }
+  @include mixins.media(lg) {
+    font-size: 4rem;
+    margin-bottom: 6rem;
+  }
+}
+
+.print-section__font-size h2 {
+  font-size: 1.5rem;
+  line-height: 1.4;
+  
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+
+  @include mixins.media(md) {
+    margin-top: 3rem;
+  }
+
+  @include mixins.media(lg) {
+    font-size: 1.75rem;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+  }
+}
+
+.print-section__font-size h3 {
+  font-size: 1.25rem;
+  line-height: 1.4;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+h4, h5, h6 {
+  line-height: 1.4;
+  margin-top: 1.5rem;
+  margin-bottom: 0.25rem;
+}
+
+.print-section__font-size h4 {
+  font-size: 1.125rem;
+}
+
+.print-section__font-size h5 {
+  font-size: 1rem;
+}
+
+.print-section__font-size h6 {
+  font-size: 0.875rem;
+}
+
+table {
+  margin-bottom: 1em;
+  border-collapse: collapse;
+  width: 100%;
+  border: solid 1px variables.$gray;
+}
+
+.print-section__font-size td {
+  font-size: 0.929em;
+  color: #404040;
+  font-weight: normal;
+  padding: 8px;
+  background: #ffffff;
+  border: solid 1px variables.$gray;
+  width: 20%;
+}
+
+td:hover {
+  background: #efeee9;
+  color: #404040;
+}

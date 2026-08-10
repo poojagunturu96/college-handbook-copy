@@ -1,0 +1,72 @@
+@use "../core/functions";
+@use "../core/mixins";
+@use "../core/variables";
+
+.App {
+  @include mixins.media(lg) {
+    overflow: hidden;
+  }
+}
+
+.app-header {
+  background: variables.$navy-dark;
+}
+
+.app-header__wrap {
+  display: flex;
+  
+  @include mixins.make-container;
+
+  @media print {
+    display: block;
+  }
+}
+
+.app-header__wrap--main {
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.app-header__logo {
+  padding: 0.5rem 0;
+
+  @include mixins.media(md) {
+    padding: 0;
+    position: relative;
+    top: 1rem;
+    z-index: 2;
+  }
+
+  @media print {
+    float: right;
+  }
+}
+
+.app-header__title {
+  font-size: functions.rem(24);
+  line-height: 1;
+  font-family: variables.$font-family-serif;
+  color: variables.$white;
+  margin: initial;
+
+  @include mixins.media(lg) {
+    line-height: 1.4;
+    font-size: functions.rem(28);
+  }
+}
+
+.app-header__link {
+  color: variables.$white;
+  text-decoration: none;
+
+  @media print {
+    display: block;
+    margin-top: variables.$spacing-3;
+  }
+
+  &:hover {
+    text-decoration: underline;
+    color: variables.$white;
+  }
+}

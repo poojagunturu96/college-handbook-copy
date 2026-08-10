@@ -1,0 +1,216 @@
+backend:
+  name: git-gateway
+  repo: middlebury/college-handbook
+  branch: main
+  accept_roles: ["admin", "editor"]
+
+media_folder: static/assets
+public_folder: /assets
+display_url: https://handbook.middlebury.edu
+
+publish_mode: editorial_workflow
+
+collections:
+  - name: "middlebury-wide"
+    label: "I. Middlebury Wide Policies"
+    folder: "content/i-policies-for-all"
+    path: "{{slug}}/"
+    create: false
+    sortable_fields: []
+    fields:
+      - {
+          label: "Title",
+          name: "title",
+          default: "document name",
+          widget: "string",
+          required: false,
+        }
+      - {
+          label: "Date Edited",
+          name: "date",
+          widget: "datetime",
+          date_format: "YYYY-MM-DD",
+          time_format: false,
+          format: "L",
+          required: false,
+        }
+      - {
+          label: "Text",
+          name: "body",
+          widget: "CKEditor",
+          required: false,
+        }
+  - name: "undergraduate-college"
+    label: "II. Policies for the Undergraduate College"
+    folder: "content/ii-ug-college-policies"
+    path: "{{slug}}/{{slug}}/{{slug}}/"
+    create: false
+    sortable_fields: []
+    fields:
+      - {
+          label: "Title",
+          name: "title",
+          default: "document name",
+          widget: "string",
+          required: false,
+        }
+      - {
+          label: "Date Edited",
+          name: "date",
+          widget: "datetime",
+          date_format: "YYYY-MM-DD",
+          time_format: false,
+          format: "L",
+          required: false,
+        }
+      - {
+          label: "Text",
+          name: "body",
+          widget: "CKEditor",
+          required: false,
+        }
+  - name: "language-schools"
+    label: "III. Policies for the Language Schools"
+    folder: "content/iii-policies-for-the-language-schools"
+    path: "{{slug}}/"
+    create: false
+    sortable_fields: []
+    fields:
+      - {
+          label: "Title",
+          name: "title",
+          default: "document name",
+          widget: "string",
+          required: false,
+        }
+      - {
+          label: "Date Edited",
+          name: "date",
+          widget: "datetime",
+          date_format: "YYYY-MM-DD",
+          time_format: false,
+          format: "L",
+          required: false,
+        }
+      - {
+          label: "Text",
+          name: "body",
+          widget: "CKEditor",
+          required: false,
+        }
+  - name: "miis-policies"
+    label: "IV. Policies for the Institute of International Studies"
+    folder: "content/iv-policies-for-the-institute"
+    path: "{{slug}}/{{slug}}/{{slug}}/"
+    create: false
+    sortable_fields: []
+    fields:
+      - {
+          label: "Title",
+          name: "title",
+          default: "document name",
+          widget: "string",
+          required: false,
+        }
+      - {
+          label: "Date Edited",
+          name: "date",
+          widget: "datetime",
+          date_format: "YYYY-MM-DD",
+          time_format: false,
+          format: "L",
+          required: false,
+        }
+      - {
+          label: "Text",
+          name: "body",
+          widget: "CKEditor",
+          required: false,
+        }
+  - name: "schools-abroad"
+    label: "V. Policies for Schools Abroad"
+    folder: "content/v-policies-for-schools-abroad"
+    path: "{{slug}}/{{slug}}/"
+    create: false
+    sortable_fields: []
+    fields:
+      - {
+          label: "Title",
+          name: "title",
+          default: "document name",
+          widget: "string",
+          required: false,
+        }
+      - {
+          label: "Date Edited",
+          name: "date",
+          widget: "datetime",
+          date_format: "YYYY-MM-DD",
+          time_format: false,
+          format: "L",
+          required: false,
+        }
+      - {
+          label: "Text",
+          name: "body",
+          widget: "CKEditor",
+          required: false,
+        }
+  - name: "miis-online-policies"
+    label: "VI. Policies for Middlebury Institute Online"
+    folder: "content/vi-policies-for-middlebury-institute-online"
+    path: "{{slug}}/{{slug}}/"
+    create: false
+    sortable_fields: []
+    fields:
+      - {
+          label: "Title",
+          name: "title",
+          default: "document name",
+          widget: "string",
+          required: false,
+        }
+      - {
+          label: "Date Edited",
+          name: "date",
+          widget: "datetime",
+          date_format: "YYYY-MM-DD",
+          time_format: false,
+          format: "L",
+          required: false,
+        }
+      - {
+          label: "Text",
+          name: "body",
+          widget: "CKEditor",
+          required: false,
+        }
+  - name: "previous-handbooks"
+    label: "Previous Handbooks"
+    folder: "content/vii-handbook-archive"
+    path: "{{slug}}/"
+    create: false
+    sortable_fields: []
+    fields:
+      - {
+          label: "Title",
+          name: "title",
+          default: "document name",
+          widget: "string",
+          required: false,
+        }
+      - {
+          label: "Date Edited",
+          name: "date",
+          widget: "datetime",
+          date_format: "YYYY-MM-DD",
+          time_format: false,
+          format: "L",
+          required: false,
+        }
+      - {
+          label: "Text",
+          name: "body",
+          widget: "CKEditor",
+          required: false,
+        }

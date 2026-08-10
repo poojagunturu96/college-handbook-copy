@@ -1,0 +1,58 @@
+---
+slug: /pages/i-policies-for-all/health-safety/tam-policy
+title: C.2. Threat Assessment and Response Policy
+date: 08/18/2025
+---
+*   [**Introduction**](#i-introduction--purpose)
+*   [**Threat Assessment Team**](#ii-threat-assessment-team)
+*   [**Reporting Potential Threats**](#iiireporting-potential-threats)
+*   [**Confidentiality**](#ivconfidentiality)
+*   [**Retaliation**](#vretaliation)
+
+---
+
+#### **I. Introduction & Purpose**
+
+Middlebury is committed to maintaining campus and workplace environments that are safe and secure for all students, staff, faculty, and visitors. As part of this commitment, Middlebury has established two Threat Assessment and Management Teams (“TAM”), whose role is to assess information and reported threats and, in cooperation with other Middlebury teams or offices as appropriate, to formulate an appropriate response in situations where an individual’s behavior and/or statements indicate they may present a threat to the health or safety of others. The Vermont TAM is responsible for all the programs based in Vermont and elsewhere except that the Institute TAM is responsible for the Middlebury Institute of International Studies. The TAMs seek to mitigate potential threats before they result in harm.
+
+Nothing in this policy shall be construed to alter or amend other applicable Middlebury policies.
+
+#### **II. Threat Assessment Team**
+
+The Chief Risk Officer appoints the members of the Vermont TAM and names its chair and appoints new or different team members as necessary; the VPAA/Dean of the Institute appoints the members of the Institute TAM.  Each TAM is advisory and makes recommendations to the appropriate office in the programs for which it is responsible.
+
+The Vermont TAM is chaired by the Associate Vice President of Safety, and ordinarily consists of representatives (or their designees) from the Department of Public Safety, Academic Affairs, Vice President for Student Affairs and Dean of Students Office, Office of the General Counsel & Risk Management, Human Resources, and the Center for Health & Wellness.
+
+The Institute TAM is co-chaired by the Associate Dean of Student Services and the Executive Assistant to the Director of Operations. Ordinarily, the Institute TAM consists of representatives from Advising, Career, Student Services, Human Resources, Information Technology Services, Communications, the Institute campus security, and the VP’s office.
+
+**Vermont TAM**
+
+<table><tbody><tr><td>Contact</td><td>Title</td><td>Email</td><td>Phone</td></tr><tr><td>Demitria Kirby</td><td>TAM Chair, Assoc. VP of Safety</td><td><a href="mailto:dkirby@middlebury.edu">dkirby@middlebury.edu</a>&nbsp;</td><td>802.443.5201</td></tr><tr><td>Dan Gaiotti</td><td>Assoc. Dir. of Public Safety</td><td><a href="mailto:dgaiotti@middlebury.edu">dgaiotti@middlebury.edu</a></td><td>802.443.5873</td></tr><tr><td>Rick Whitney</td><td>Lieutenant&nbsp;</td><td><a href="mailto:rwhitney@middlebury.edu">rwhitney@middlebury.edu</a></td><td>802.443.5836</td></tr><tr><td>Pete Brown</td><td>Emergency Management Coordinator</td><td><a href="mailto:peterb@middlebury.edu">peterb@middlebury.edu</a></td><td>802.443.5996</td></tr><tr><td>Smita Ruzicka</td><td>VP for Student Affairs</td><td><a href="mailto:sruzicka@middlebury.edu">sruzicka@middlebury.edu</a></td><td>802.443.2465</td></tr><tr><td>Sue Ritter</td><td>Chief of Staff, Deputy Counsel and Risk Officer, and Assoc. Sec. of the Corp.</td><td><a href="mailto:sritter@middlebury.edu">sritter@middlebury.edu</a></td><td>802.443.3289</td></tr><tr><td>Sheila Cameron</td><td>Director of Strategic Initiatives</td><td><a href="mailto:scameron@middlebury.edu">scameron@middlebury.edu</a>&nbsp;</td><td>802.443.5190</td></tr><tr><td>Barbara McCall</td><td>Assoc. VP of Student Health &amp; Wellbeing</td><td><a href="mailto:bmccall@middlebury.edu">bmccall@middlebury.edu</a></td><td>802.443.5361</td></tr><tr><td>Chris Norris</td><td>VP of Information Technology - Chief Information Officer</td><td><a href="mailto:cnorris@middlebury.edu">cnorris@middlebury.edu</a></td><td>802.443.5480</td></tr><tr><td>Derek Doucet</td><td>Associate Vice President of Student Affairs for the Institute and Schools</td><td><a href="mailto:ddoucet@middlebury.edu">ddoucet@middlebury.edu</a></td><td>802.443.3108</td></tr><tr><td>Joe Russell</td><td>Associate Vice President &amp; Dean of Students</td><td><a href="mailto:joer@middlebury.edu">joer@middlebury.edu</a></td><td>802.443.3417</td></tr><tr><td>Butterfly Boire</td><td>Civil Rights &amp; Title IX Coordinator</td><td><a href="mailto:bboire@middlebury.edu">bboire@middlebury.edu</a></td><td>802.443.2147</td></tr><tr><td>Taryn Moran</td><td>Deputy Civil Rights &amp; Title IX Coordinator</td><td><a href="mailto:tarynm@middlebury.edu">tarynm@middlebury.edu</a></td><td>802.443.5840</td></tr></tbody></table>
+
+**California TAM**
+
+<table><tbody><tr><td>Contact</td><td>Title</td><td>Email</td><td>Phone</td></tr><tr><td>Ashley Arrocha</td><td>Co-Chair, Associate Dean of Student Services</td><td><a href="mailto:aarrocha@middlebury.edu">aarrocha@middlebury.edu</a></td><td>831.647.4654</td></tr><tr><td>Stacy Roth</td><td>Director of Operations</td><td><a href="mailto:sroth@middlebury.edu">sroth@middlebury.edu</a></td><td>831.647.3513</td></tr><tr><td>Betcie Daniels</td><td>Campus Security Manager</td><td><a href="mailto:bdaniels@middlebury.edu">bdaniels@middlebury.edu</a></td><td>831.647.4153</td></tr><tr><td>Sierra Abukins</td><td>Director of Communications</td><td><a href="mailto:sabukins@middlebury.edu">sabukins@middlebury.edu</a></td><td>831.647.6606</td></tr><tr><td>MaxJulian Ham</td><td>Assistant Director of Residential Life</td><td><a href="mailto:mham@middlebury.edu">mham@middlebury.edu</a></td><td>831.647.6442</td></tr><tr><td>Gustavo Carvalho</td><td>Systems Engineer II, Information Technology</td><td><a href="mailto:gcarvalh@middlebury.edu">gcarvalh@middlebury.edu</a></td><td>831.647.6658</td></tr></tbody></table>
+
+Middlebury’s General Counsel serves as an adviser to both the VT and Institute TAMs and is expected to attend regular as well as _ad hoc_ meetings.
+
+Members of the TAM are identified by name and position here and in other Middlebury publications, as appropriate. Other Middlebury personnel and outside resources with relevant areas of specialization and responsibility may be called upon to assist the TAM, including but not limited to class deans, supervisors, law enforcement agencies, medical personnel, or other outside experts. Both TAM teams follow these [Guidelines](/assets/guidelines_tam_activities.pdf). The Office of the President will be kept apprised of the Team’s work as appropriate.
+
+#### **III. Reporting Potential Threats**
+
+Anyone who believes that an individual has committed or may commit an act of violence, or otherwise may pose a threat to the health or safety of any member of the Middlebury community should **call the Department of Public Safety immediately at** **802.443.5911 at Middlebury College or Campus Security at 831-647-4153 at the Middlebury Institute**. Members of the Middlebury, Vermont community are also welcome to use this [online reporting form](https://forms.office.com/pages/responsepage.aspx?id=GQq7oXYVHUK-k7On1Lbcqr_v36F22QZGmzP-mFcpy5FUNUdFOUwzNFVMMElKT1NSUDZHTjRaNE0zVyQlQCN0PWcu&route=shorturl) (anonymous option available). **In case of an emergency, please dial 911.**
+
+The Chair of a TAM will assess the reported information and determine whether to convene the TAM.
+
+In cases where an assessment indicates that the threat is to self only, the matter will be referred to the appropriate Middlebury official (e.g., student matters will be referred to the appropriate student life resources; staff matters will be referred to Human Resources; and faculty matters will be referred to the appropriate vice president for the program).  In cases where available information suggests that a person may pose a threat to self and others, the TAM will ordinarily be convened and will involve the other officials listed here as appropriate. In cases where a referral is made, the TAM may be re-involved as necessary and appropriate.
+
+#### **IV. Confidentiality**
+
+All reports under this policy will be handled in a sensitive manner. Information will be shared with others only to the extent necessary to assess and manage the situation and in accordance with state and federal law.
+
+In general, the law recognizes and protects the confidentiality of communications between a person seeking care and a medical or mental health professional or religious adviser. The medical, mental health, and religious professionals at Middlebury respect and protect confidential communications from students, faculty, and staff to the extent that they are legally able to do so. One of these professionals may have to breach a confidence, however, when he or she perceives a serious risk of danger to another person or property.
+
+Middlebury and its campuses are also part of larger communities. If there is an independent investigation or lawsuit relating to an act of violence or a potential threat, those involved, or others may be required by law to provide documents, testimony, or other information.
+
+#### **V. Retaliation**
+
+Retaliating directly or indirectly against a person who has in good faith made a report under this policy or who has supported or participated in an investigation is prohibited. Retaliation includes but is not limited to ostracizing the person, pressuring the person to drop the report or not participate in the investigation, or to provide false or misleading information, or engaging in conduct that may reasonably be perceived to affect adversely that person’s educational, living, or work environment. Depending on the circumstances, retaliation may be unlawful, whether or not the report is ultimately found to have merit. An individual who engages in retaliation under this policy will be subject to discipline in accordance with Middlebury-wide policies and the policies applicable to the program at issue.
