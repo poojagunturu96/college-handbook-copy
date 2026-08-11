@@ -37,7 +37,8 @@ collections:
       - {
           label: "Slug",
           name: "slug",
-          widget: "{{slug}}",
+          widget: "string",
+          default: "{{slug}}",
           required: false,
         }
       - {
