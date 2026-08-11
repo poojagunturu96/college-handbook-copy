@@ -15,7 +15,7 @@ collections:
     label: "I. Middlebury Wide Policies"
     folder: "content/i-policies-for-all"
     path: "{{slug}}/"
-    create: false
+    create: true
     sortable_fields: []
     fields:
       - {
@@ -40,6 +40,12 @@ collections:
           widget: "CKEditor",
           required: false,
         }
+    nested:
+      depth: 100
+      summary: '{{title}}'
+      subfolders: false
+    meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
+
   - name: "undergraduate-college"
     label: "II. Policies for the Undergraduate College"
     folder: "content/ii-ug-college-policies"
