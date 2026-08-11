@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: middlebury/college-handbook
+  repo: poojagunturu96/college-handbook-copy
   branch: main
   accept_roles: ["admin", "editor"]
 
@@ -43,7 +43,7 @@ collections:
     nested:
       depth: 100
       summary: '{{title}}'
-      subfolders: false
+      subfolders: true
     meta: { path: { widget: string, label: 'Path', index_file: '_index' } }
 
   - name: "undergraduate-college"
