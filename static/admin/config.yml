@@ -35,6 +35,12 @@ collections:
           required: false,
         }
       - {
+          label: "Slug",
+          name: "slug",
+          widget: "{{slug}}",
+          required: false,
+        }
+      - {
           label: "Text",
           name: "body",
           widget: "CKEditor",
