@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   repo: middlebury/college-handbook
   branch: main
   accept_roles: ["admin", "editor"]
@@ -44,7 +44,7 @@ collections:
       depth: 100
       summary: '{{title}}'
       subfolders: false
-    meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
+    meta: { path: { widget: string, label: 'Path', index_file: '_index' } }
 
   - name: "undergraduate-college"
     label: "II. Policies for the Undergraduate College"
